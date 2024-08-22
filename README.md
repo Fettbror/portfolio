@@ -1,5 +1,6 @@
 # Rickard Hernandez Gutierrez  
 **Aspiring Data Engineer**
+logo: assets/githubimg.jpeg
 
 ## Contact Information  
 - **E-mail:** rickard.hg@hotmail.com  
